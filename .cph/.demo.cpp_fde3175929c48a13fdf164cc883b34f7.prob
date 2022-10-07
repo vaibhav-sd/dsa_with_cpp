@@ -1,1 +1,0 @@
-{"name":"Local: demo","url":"c:\\Users\\Sanil\\Desktop\\dsa_with_cpp\\demo.cpp","tests":[{"id":1663063705028,"input":"2\n6\n7 6 3 8 2 9\n2\n2 1","output":"3\n7 6 3\n3\n8 2 9\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Sanil\\Desktop\\dsa_with_cpp\\demo.cpp","group":"local","local":true}
